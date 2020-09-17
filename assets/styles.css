@@ -1,0 +1,37 @@
+body {
+    /* background-color: #D4DADC; */
+    background-color: #181A1A;
+    font-family: Muli, Helvetica, Arial, sans-serif;
+    color: white;
+}
+
+#figure_header {
+    text-align: center;      
+    color: #fff; 
+    font-size: 20px;
+    padding: 30px;
+}
+
+.svg-container .main-svg { 
+    background: none !important;
+    /* padding-top: 20px; */
+}
+
+#radio_data {
+    text-align: center;
+    padding-bottom: 20px;
+    color: #9cc5cc;
+}
+
+#top_five, #last_five {
+    padding: 5px 0 5px 0;
+}
+
+#top_five {
+    padding-top: 15px;
+    color: #6cc15d;
+}
+
+#last_five {
+    color: #c35353;
+}
